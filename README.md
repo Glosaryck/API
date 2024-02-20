@@ -3,6 +3,6 @@
     <img src="https://telegra.ph/file/06d1e40c3455751f88e1e.gif" width="500" height="250" alt="https://github.com/Hero351"/>
 </p>
 <h2 align="center">
-	<img src="https://media.tenor.com/QVjbWBHGP5IAAAAj/anime-ty.gif" width="50"/>
+	<img src="https://tenor.com/view/miku-nakano-gotoubun-no-hanayome-quintessential-quintuplets-quintessential-quintuplets-movie-tqq-gif-26962951" width="50"/>
 	API for my bot 🩶.
 </h2>
